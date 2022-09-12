@@ -1,3 +1,4 @@
+# Synopsis
 Our team discovered a problem and decided to work on it.
 This is an app that helps people to recover their missing items.
 
