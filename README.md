@@ -1,5 +1,5 @@
 # Synopsis
-Our team discovered a problem and decided to work on it.
+Our team(myself and 17 others) discovered a problem and decided to work on it.
 This is an app that helps people to recover their missing items.
 It will also help people to notify other users about their missing items
 
